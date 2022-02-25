@@ -1,1 +1,4 @@
 *.iml
+config.cache
+.fuse*
+logs
